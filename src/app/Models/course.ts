@@ -13,5 +13,4 @@ export class Activity{
 export class StudentModule{
     moduleID! : number;
     moduleName!: string;
-    userID! : string;
 }

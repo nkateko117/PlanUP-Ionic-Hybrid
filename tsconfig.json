@@ -12,6 +12,8 @@
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "declaration": false,
+    "strictPropertyInitialization": false,
+    "skipLibCheck": true,
     "downlevelIteration": true,
     "experimentalDecorators": true,
     "moduleResolution": "node",
@@ -28,6 +30,6 @@
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
-    "strictTemplates": true
+    "strictTemplates": false
   }
 }
